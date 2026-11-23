@@ -1,0 +1,8 @@
+
+country_id,country_name,currency_code,currency_name,source_url,verification_status
+C01,Germany,EUR,Euro,,Pending
+C02,Canada,CAD,Canadian Dollar,,Pending
+C03,Australia,AUD,Australian Dollar,,Pending
+C04,United Kingdom,GBP,British Pound,,Pending
+C05,Italy,EUR,Euro,,Pending
+C06,Hungary,HUF,Hungarian Forint,,Pending

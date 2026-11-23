@@ -1,0 +1,13 @@
+university_id,university_name,country_id,website,ranking,source_url,verification_status
+U001,Technical University of Munich,C01,https://www.tum.de/,,https://www.tum.de/,Pending
+U002,Heidelberg University,C01,https://www.uni-heidelberg.de/,,https://www.uni-heidelberg.de/,Pending
+U003,University of Toronto,C02,https://www.utoronto.ca/,,https://www.utoronto.ca/,Pending
+U004,University of British Columbia,C02,https://www.ubc.ca/,,https://www.ubc.ca/,Pending
+U005,University of Melbourne,C03,https://www.unimelb.edu.au/,,https://www.unimelb.edu.au/,Pending
+U006,University of Sydney,C03,https://www.sydney.edu.au/,,https://www.sydney.edu.au/,Pending
+U007,University of Oxford,C04,https://www.ox.ac.uk/,,https://www.ox.ac.uk/,Pending
+U008,University of Manchester,C04,https://www.manchester.ac.uk/,,https://www.manchester.ac.uk/,Pending
+U009,University of Bologna,C05,https://www.unibo.it/,,https://www.unibo.it/,Pending
+U010,Politecnico di Milano,C05,https://www.polimi.it/,,https://www.polimi.it/,Pending
+U011,Eötvös Loránd University,C06,https://www.elte.hu/,,https://www.elte.hu/,Pending
+U012,University of Szeged,C06,https://u-szeged.hu/,,https://u-szeged.hu/,Pending

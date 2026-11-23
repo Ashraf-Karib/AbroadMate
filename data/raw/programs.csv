@@ -1,0 +1,3 @@
+program_id,university_id,program_name,degree,subject,tuition_fee,currency_code,fee_period,academic_year,program_duration,source_url,verification_status
+P001,U004,Master of Data Science,Master's,Data Science,59767.92,CAD,Total Programme,2026-2027,10 months,https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-data-science,Verified
+P002,U001,Data Engineering and Analytics,Master of Science,Data Engineering and Analytics,6000,EUR,Per Semester,2026-2027,4 semesters,https://www.cit.tum.de/en/cit/studies/degree-programs/master-data-engineering-and-analytics/,Verified
